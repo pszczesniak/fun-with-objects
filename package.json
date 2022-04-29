@@ -1,0 +1,16 @@
+{
+  "name": "monogo",
+  "version": "1.0.0",
+  "description": "Challenge task solution",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Piotr Szczęśniak",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
